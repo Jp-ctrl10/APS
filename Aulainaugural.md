@@ -1,4 +1,4 @@
-Dinâmica do Desenho
+<img width="960" height="1280" alt="WhatsApp Image 2026-08-15 at 19 44 25" src="https://github.com/user-attachments/assets/9904826b-8f82-4520-a4e9-ac06dd767982" />Dinâmica do Desenho
 Desenhem uma tela de aplicativo em 10 minutos que registre um problema que ocorre na sua faculdade.
 
 A funcionalidade do aplicativo é registrar problemas que ocorrem na instituição.
@@ -71,6 +71,8 @@ Exemplo de tela: Facul Resolve
 │ │    ENVIAR PROBLEMA       │ │
 │ └──────────────────────────┘ │
 └──────────────────────────────┘
+<img width="960" height="1280" alt="imagem" src="https://github.com/user-attachments/assets/807fd824-9bab-46b1-84f9-e0e389fad8b5" />
+
 Possíveis problemas
 🚽 Banheiro sem papel
 💡 Lâmpada queimada
